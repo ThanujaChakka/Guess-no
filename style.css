@@ -1,0 +1,29 @@
+#dis{
+    color: black;
+}
+.box{
+    height: 30%;
+    width: 45%;
+    border: 5px solid black;
+    margin-top: 10%;
+    background-color: green;
+    margin-left: 29%;
+}
+#check,#reset{
+    padding: 8px;
+    text-align: center;
+   margin-left: 22%;
+    margin-right: 15%;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.guess, .sel{
+    font-size: 20px;
+    margin-left: 10px;
+}
+center{
+    font-size: 25px;
+}
